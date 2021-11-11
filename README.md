@@ -1,6 +1,6 @@
 # My Notebooks
 
-### installation
+### Installation
 
 - pyenv
 
